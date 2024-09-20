@@ -33,3 +33,5 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 </html>
 ```
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge ''Texto opcional'')
+
+![cristiano ronaldo]( https://github.com/raulvazquez007/2425-smx2-a0-repoejemplo/blob/main/cristiano%20ronaldo.jpg)
