@@ -35,3 +35,10 @@ Este texto esta en *cursiva* y este también esta en _cursiva_
 [Enlace a la web del cole](https://www.fje.edu/ca/jesuites-bellvitge ''Texto opcional'')
 
 ![cristiano ronaldo]( https://github.com/raulvazquez007/2425-smx2-a0-repoejemplo/blob/main/cristiano%20ronaldo.jpg)
+
+|Columna 1 |Columna 2 | Columna 3 |
+|-----------------------|:----------------:|----------------:|
+|Col 3 es |right-aligned|$1600|
+|Col 2 es |centered|$16|
+|zebra stripes |son limpias|$1|
+
